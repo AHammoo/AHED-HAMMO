@@ -1,0 +1,16 @@
+{
+  "short_name": "برا السالفة",
+  "name": "برا السالفة - لعبة الجاسوس",
+  "description": "لعبة الجاسوس - اكتشف اللاعب الذي لا يعرف الكلمة السرية.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3a506b",
+  "background_color": "#3a506b"
+}
